@@ -1,0 +1,4 @@
+---
+users:
+  - username: tetuya
+    use_sudo: True
